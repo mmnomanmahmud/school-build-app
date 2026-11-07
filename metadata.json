@@ -1,0 +1,6 @@
+{
+  "name": "School Build",
+  "description": "সকল শ্রেণীর পাঠ্যবই, উপন্যাস, গল্প ও জ্ঞানবিজ্ঞানের বই সমৃদ্ধ উন্মুক্ত ডিজিটাল লাইব্রেরি ও অফলাইন রিডার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
